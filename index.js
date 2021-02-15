@@ -703,10 +703,6 @@ async function starts() {
 		                case 'filosofopiton':
 				    if (args.length < 1) return reply ('*https://www.youtube.com/watch?v=49thEg7fFlg&ab_channel=k-2TUBE*')
 		            		break
-				case 'bebegatin':
-				    if (args.length < 1) return reply {
-					    "mediaUrl": "https://i.imgur.com/G5hzSRq.jpg" }
-		            		break
 				default:
 					if (isGroup && isSimi && budy != undefined) {
 						console.log(budy)
