@@ -700,7 +700,7 @@ async function starts() {
 		        	case 'textaodanilo':
 				    if (args.length < 1) return reply ('*Textao do Danilo:*\n@Gabiru Sales eu to ligado que vc é frustrado e acha que é invejado, mas pelo tempo que a gente ja discutiu, tudo que acontece no grupo vc me menciona e parece até que você inveja minha vida, então se vc acha que tá bonito da uma acalmada aí e pensa pq vc tá saindo como o cara que ngm liga mas dão ibope pq vc ja eh frustrado 😘✌🏻 seja menas*')
 		            		break
-		                case 'textaolevi':
+		                case 'textvi':
 				    if (args.length < 1) return reply ('*Textao do Levi:*\nEsse rapaz n tem o mínimo de QI So porque tirou uma nota boa no Enem, além disso argumentos q ele usa pra acabar com alguém : macaco , fotos de personagens aleatórios, pelo nome, só isso , o dia que ele tiver a habilidade q eu tenho em várias coisas, o dia q ele ser mais bonito q eu , eu tentaria algum argumento com ele caso contrário não me rebaixarei a tal nivel.*')
 		            		break
 				default:
