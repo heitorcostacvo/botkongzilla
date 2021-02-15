@@ -15,7 +15,14 @@ const help = (prefix) => {
 │ • *${prefix}kkk* - Para fazer o BOT rir dms KKKKKKK 🤣🤣
 │ • *${prefix}perdi* - Para fazer o BOT perder é tudo. 🅿️
 │ • *${prefix}explodi* - Para fazer o BOT explodir. 💥
+│ • *${prefix}bebegatin* - Para dar goró pro gato 😺.
 ╰────────
+╭─「*TEXTÕES*」
+│ • *${prefix}porraamigo* - ...vou te falar legal.*
+│ • *${prefix}frangoexpress* - famoso frango a jato*
+│ • *${prefix}alanzinho* - resumo da ópera.*
+│ • *${prefix}filosofopiton* - tudo na vida depende...*
+╰────────`
 ╭─「*ADMINISTRAÇÃO*」
 │ • *${prefix}listadms* - Lista de Administradores do grupo.*
 │ • *${prefix}add* - Adicionar uma pessoa, ex: *${prefix}add 55219XXXXXXXX*
