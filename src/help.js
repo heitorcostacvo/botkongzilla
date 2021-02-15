@@ -23,12 +23,6 @@ const help = (prefix) => {
 │ • *${prefix}alanzinho* - resumo da ópera.*
 │ • *${prefix}filosofopiton* - tudo na vida depende...*
 ╰────────`
-╭─「*ADMINISTRAÇÃO*」
-│ • *${prefix}listadms* - Lista de Administradores do grupo.*
-│ • *${prefix}add* - Adicionar uma pessoa, ex: *${prefix}add 55219XXXXXXXX*
-│ • *${prefix}sadm* - Remover ADM.*
-│ • *${prefix}ban* - Banir qualquer membro.*
-╰────────`
 }
 
 exports.help = help
